@@ -12,22 +12,22 @@ Laravel, blade, MySQL
 
 ## Screenshot
 > Dashboard Admin
-<img src="https://github.com/onynovianti/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat1.png">
+<img src="https://github.com/codebybony/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat1.png">
 
 > Data Rapat Semua Divisi
-<img src="https://github.com/onynovianti/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat2.png">
+<img src="https://github.com/codebybony/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat2.png">
 
 > Data Karyawan
-<img src="https://github.com/onynovianti/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat3.png">
+<img src="https://github.com/codebybony/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat3.png">
 
 > Detail Rapat
-<img src="https://github.com/onynovianti/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat4.png">
+<img src="https://github.com/codebybony/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat4.png">
 
 > Detail Rapat - List File
-<img src="https://github.com/onynovianti/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat5.png">
+<img src="https://github.com/codebybony/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat5.png">
 
 > Absensi Tamu
-<img src="https://github.com/onynovianti/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat6.png">
+<img src="https://github.com/codebybony/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat6.png">
 
 > Tambah Rapat per Divisi
-<img src="https://github.com/onynovianti/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat7.png"> 
+<img src="https://github.com/codebybony/magang_sim_rapat_qrcode/blob/296067acddd4efb80c05d9dcad26708f8e1c83fc/public/assets/images/screenshot/Rapat7.png"> 
